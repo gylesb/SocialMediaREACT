@@ -6,9 +6,9 @@ function FollowersList(){
     <div>
       <h4>Followers</h4>
       <Follower
-        name="Donec eu orci et"/>
+        name="Lorem"/>
       <Follower
-        name="Kevin!"/>
+        name="Ipsum"/>
     </div>
 
   );
